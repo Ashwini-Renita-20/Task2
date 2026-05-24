@@ -170,32 +170,32 @@ Medium
 
 ## Broken Clothing and Accessories Navigation
 
-![Broken Link](screenshot/broken_link1.png)
-![Broken Link](screenshot/broken_link2.png)
+![Broken Link](broken_link1.png)
+![Broken Link](broken_link2.png)
 
 ---
 
 ## Search Functionality Issue
 
-![Search Issue](screenshot/search_issue.png)
+![Search Issue](search_issue.png)
 
 ---
 
 ## Cart Page
 
-![Cart Page](screenshot/cart_page.png)
+![Cart Page](cart_page.png)
 
 ---
 
 ## Mobile Responsiveness Issue
 
-![Mobile View](screenshot/mobile-view.png)
+![Mobile View](mobile-view.png)
 
 ---
 
 ## Console Errors
 
-![Console Errors](screenshot/console-errors.png)
+![Console Errors](console-errors.png)
 
 ---
 
